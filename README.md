@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wiliam Fery Sagala</h1>
 <h3 align="center">I'm currently exploring frontend with the goal of becoming a fullstack developer</h3>
 <p align="center"><a align="center" href="https://app.daily.dev/WiliamSagala_2002"><img src="https://api.daily.dev/devcards/426f5601a13647b4a6dbc038783b603a.png?r=vaz" width="400" alt="Wiliam Fery Sagala's Dev Card"/>
-<a href="https://app.daily.dev/WiliamFerySagala2002"><img src="https://api.daily.dev/devcards/426f5601a13647b4a6dbc038783b603a.png?r=pks" width="400" alt="Wiliam Fery Sagala's Dev Card"/></a></a>
+</a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
